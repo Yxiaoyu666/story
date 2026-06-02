@@ -1,0 +1,160 @@
+{
+  "playlist": [
+    {
+      "title": "兰亭序",
+      "artist": "Jay",
+      "src": "musics/兰亭序重制版伴奏.mp3",
+      "cover": "images/a_8k.jpg"
+    },
+    {
+      "title": "十年",
+      "artist": "陈奕迅",
+      "src": "musics/十年.mp3",
+      "cover": "musics/十年_cover.jpg"
+    },
+    {
+      "title": "富士山下",
+      "artist": "陈奕迅",
+      "src": "musics/富士山下.mp3",
+      "cover": "musics/富士山下_cover.jpg"
+    },
+    {
+      "title": "十面埋伏",
+      "artist": "陈奕迅",
+      "src": "musics/十面埋伏.mp3",
+      "cover": "musics/十面埋伏_cover.jpg"
+    },
+    {
+      "title": "最佳损友",
+      "artist": "陈奕迅",
+      "src": "musics/最佳损友.mp3",
+      "cover": "musics/最佳损友_cover.jpg"
+    },
+    {
+      "title": "多远都要在一起",
+      "artist": "邓紫棋",
+      "src": "musics/多远都要在一起.mp3",
+      "cover": "musics/多远都要在一起_cover.jpg"
+    },
+    {
+      "title": "唯一",
+      "artist": "邓紫棋",
+      "src": "musics/唯一.mp3",
+      "cover": "musics/唯一_cover.jpg"
+    },
+    {
+      "title": "光年之外 (热爱版)",
+      "artist": "邓紫棋",
+      "src": "musics/光年之外 (热爱版).mp3",
+      "cover": "musics/光年之外 (热爱版)_cover.jpg"
+    },
+    {
+      "title": "倒数",
+      "artist": "邓紫棋",
+      "src": "musics/倒数.mp3",
+      "cover": "musics/倒数_cover.jpg"
+    },
+    {
+      "title": "Always Online",
+      "artist": "林俊杰",
+      "src": "musics/Always Online.mp3",
+      "cover": "musics/Always Online_cover.jpg"
+    },
+    {
+      "title": "愿与愁",
+      "artist": "林俊杰",
+      "src": "musics/愿与愁.mp3",
+      "cover": "musics/愿与愁_cover.jpg"
+    },
+    {
+      "title": "江南",
+      "artist": "林俊杰",
+      "src": "musics/江南.mp3",
+      "cover": "musics/江南_cover.jpg"
+    },
+    {
+      "title": "将故事写成我们",
+      "artist": "林俊杰",
+      "src": "musics/将故事写成我们.mp3",
+      "cover": "musics/将故事写成我们_cover.jpg"
+    },
+    {
+      "title": "我不难过",
+      "artist": "孙燕姿",
+      "src": "musics/我不难过.mp3",
+      "cover": "musics/我不难过_cover.jpg"
+    },
+    {
+      "title": "开始懂了",
+      "artist": "孙燕姿",
+      "src": "musics/开始懂了.mp3",
+      "cover": "musics/开始懂了_cover.jpg"
+    },
+    {
+      "title": "我怀念的",
+      "artist": "孙燕姿",
+      "src": "musics/我怀念的.mp3",
+      "cover": "musics/我怀念的_cover.jpg"
+    },
+    {
+      "title": "半句再见",
+      "artist": "孙燕姿",
+      "src": "musics/半句再见.mp3",
+      "cover": "musics/半句再见_cover.jpg"
+    },
+    {
+      "title": "遇见",
+      "artist": "孙燕姿",
+      "src": "musics/遇见.mp3",
+      "cover": "musics/遇见_cover.jpg"
+    },
+    {
+      "title": "演员",
+      "artist": "薛之谦",
+      "src": "musics/演员.mp3",
+      "cover": "musics/演员_cover.jpg"
+    },
+    {
+      "title": "其实",
+      "artist": "薛之谦",
+      "src": "musics/其实.mp3",
+      "cover": "musics/其实_cover.jpg"
+    },
+    {
+      "title": "聊表心意",
+      "artist": "薛之谦",
+      "src": "musics/聊表心意.mp3",
+      "cover": "musics/聊表心意_cover.jpg"
+    },
+    {
+      "title": "顽疾",
+      "artist": "薛之谦",
+      "src": "musics/顽疾.mp3",
+      "cover": "musics/顽疾_cover.jpg"
+    },
+    {
+      "title": "天外来物",
+      "artist": "薛之谦",
+      "src": "musics/天外来物.mp3",
+      "cover": "musics/天外来物_cover.jpg"
+    },
+    {
+      "title": "天地龙鳞",
+      "artist": "王力宏",
+      "src": "musics/天地龙鳞.mp3",
+      "cover": "musics/天地龙鳞_cover.jpg"
+    },
+    {
+      "title": "风中的遗憾",
+      "artist": "王力宏",
+      "src": "musics/风中的遗憾.mp3",
+      "cover": "musics/风中的遗憾_cover.jpg"
+    },
+    {
+      "title": "不可能错过你",
+      "artist": "王力宏",
+      "src": "musics/不可能错过你.mp3",
+      "cover": "musics/不可能错过你_cover.jpg"
+    }
+  ]
+}
